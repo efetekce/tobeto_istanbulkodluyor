@@ -3,6 +3,7 @@
 // Console.ReadLine() waits for a user input.
 
 // value types
+double number5 = 10.4444;
 char character = 'e';
 // char type can converted into int type(ascii value).
 string city = "Istanbul";
@@ -17,5 +18,6 @@ Console.WriteLine("Number 1 is {0}", number1);
 Console.WriteLine("Number 2 is {0}", number2);
 Console.WriteLine("Number 3 is {0}", number3);
 Console.WriteLine("Number 4 is {0}", number4);
+Console.WriteLine("Number 5 is {0}", number5);
 Console.WriteLine("Character is: {0}", character);
 Console.ReadLine();
