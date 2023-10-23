@@ -28,7 +28,8 @@ Console.WriteLine("Number 4 is {0}", number4);
 Console.WriteLine("Number 5 is {0}", number5);
 Console.WriteLine("Number 6 is {0}", number6);
 Console.WriteLine("Character is: {0}", character);
-Console.WriteLine(Week.Wednesday);
+Console.WriteLine((int)Week.Wednesday);
+// type conversion
 Console.ReadLine();
 enum Week
 {
