@@ -7,7 +7,9 @@ int n1 = 1;
 int n2 = 44;
 var result2 = Plus3(ref n1, n2);
 Console.WriteLine(result2);
+Console.WriteLine(Multiply(3, 3));
 Console.ReadLine();
+
 
 static void Add()
 {
@@ -26,3 +28,8 @@ static int Plus3(ref int n1,int n2)
     return n1 + n2;
 }
 // out keyword is an alternative for ref except it has to be set once in the actual function.
+
+static int Multiply(int n1, int n2)
+{
+    return n1 * n2;
+}
