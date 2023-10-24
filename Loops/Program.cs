@@ -1,6 +1,13 @@
 ﻿//WhileLoop();
 //ForLoop();
 
+string[] fruits = { "apple", "banana", "orange" };
+foreach (var fruit in fruits)
+{
+    // we can not mutate elements in a foreach loop.
+     //fruit[1]="dates"; this is read-only.
+    Console.WriteLine(fruit);
+}
 
 int num = 10;
 
