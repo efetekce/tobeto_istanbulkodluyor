@@ -3,3 +3,4 @@
     Console.WriteLine(i);
 }
 Console.WriteLine("finished");
+Console.ReadLine();
