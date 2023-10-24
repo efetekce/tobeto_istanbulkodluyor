@@ -1,0 +1,15 @@
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/bin/Debug/net7.0/Conditionals
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/Users/Efe/Desktop/IstanbulKodluyor/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll
