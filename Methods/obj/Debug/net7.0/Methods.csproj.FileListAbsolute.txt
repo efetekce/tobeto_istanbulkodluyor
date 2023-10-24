@@ -1,0 +1,15 @@
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/bin/Debug/net7.0/Methods
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/bin/Debug/net7.0/Methods.dll
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/Methods.dll
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/Efe/Desktop/IstanbulKodluyor/Methods/obj/Debug/net7.0/ref/Methods.dll
