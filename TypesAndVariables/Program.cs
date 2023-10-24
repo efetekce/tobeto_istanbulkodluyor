@@ -19,7 +19,8 @@ short number3 = -32768;
 int number1 = 10;
 // all data types have limits to their values.
 long number2 = 324893423423412312;
-
+var number7 = 34;
+number7 = 'b';
 
 Console.WriteLine("Number 1 is {0}", number1);
 Console.WriteLine("Number 2 is {0}", number2);
