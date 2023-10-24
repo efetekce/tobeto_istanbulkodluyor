@@ -38,4 +38,12 @@ else if (number > 200 || number < 0)
 {
     Console.WriteLine("number is less than 0 or greater than 101-200");
 }
+
+//if (number < 100)
+//{
+//    if(number>=90 && number < 95)
+//    {
+
+//    }
+//}
 Console.ReadLine();
