@@ -8,6 +8,7 @@ int n2 = 44;
 var result2 = Plus3(ref n1, n2);
 Console.WriteLine(result2);
 Console.WriteLine(Multiply(3, 3));
+Console.WriteLine(Sum(4, 1, 3, 5, 7, 9));
 Console.ReadLine();
 
 
@@ -32,4 +33,9 @@ static int Plus3(ref int n1,int n2)
 static int Multiply(int n1, int n2)
 {
     return n1 * n2;
+}
+
+static int Sum(int n1, params int[] numbers)
+{
+    return n1 + numbers.Sum();
 }
