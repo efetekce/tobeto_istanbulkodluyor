@@ -1,22 +1,21 @@
 ﻿//WhileLoop();
 //ForLoop();
+//DoWhileLoop();
 
 string[] fruits = { "apple", "banana", "orange" };
-foreach (var fruit in fruits)
+//ForEachLoop(fruits);
+
+if (IsPrimeNumber(9))
 {
-    // we can not mutate elements in a foreach loop.
-     //fruit[1]="dates"; this is read-only.
-    Console.WriteLine(fruit);
+    Console.WriteLine("this is a prime number");
+
+}
+else
+{
+    Console.WriteLine("this is not a prime number");
 }
 
-int num = 10;
 
-do
-{
-    Console.WriteLine(num);
-    num--;
-} while (num > 0);
-//do executes once before the condition.
 Console.ReadLine();
 
 
@@ -36,4 +35,39 @@ static void WhileLoop()
         Console.WriteLine(a);
         a--;
     }
+}
+
+static void ForEachLoop(string[] fruits)
+{
+    foreach (var fruit in fruits)
+    {
+        // we can not mutate elements in a foreach loop.
+        //fruit[1]="dates"; this is read-only.
+        Console.WriteLine(fruit);
+    }
+}
+
+static void DoWhileLoop()
+{
+    int num = 10;
+
+    do
+    {
+        Console.WriteLine(num);
+        num--;
+    } while (num > 0);
+    //do executes once before the condition.
+}
+
+static bool IsPrimeNumber(int n)
+{
+    bool result = true;
+    for (int i = 2; i < n; i++)
+    {
+        if (n % i == 0)
+        {
+            result = false;
+        }
+    }
+    return result;
 }
