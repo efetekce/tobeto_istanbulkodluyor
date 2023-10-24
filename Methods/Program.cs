@@ -25,3 +25,4 @@ static int Plus3(ref int n1,int n2)
     n1 = 30;
     return n1 + n2;
 }
+// out keyword is an alternative for ref except it has to be set once in the actual function.
